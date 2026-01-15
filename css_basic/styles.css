@@ -1,0 +1,38 @@
+body {
+  display: flex;
+  flex-direction: column;
+}
+ul {
+  list-style: none;
+}
+header {
+  text-align: center;
+  background-color: #f0f0f0;
+  padding: 10px;
+}
+line {
+  width: 100%;
+  background-color: #000;
+  height: 1px;
+}
+main {
+  display: flex;
+  flex-direction: row;
+  flex: auto;
+}
+article {
+  flex: 2;
+  overflow-y: auto;
+}
+aside {
+  flex: 1;
+  overflow-y: auto;
+}
+footer {
+  background-color: #f0f0f0;
+  text-align: center;
+}
+a {
+  text-decoration: none;
+  color: #5c4089;
+}
