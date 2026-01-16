@@ -90,4 +90,12 @@ Use native features before JavaScript.
 
 ---
 
-Happy coding!
+Happy coding! 🚀
+
+---
+
+## Design Reference
+
+The image below is provided **only as a visual reference** for the expected layout and structure. All implementation should be done using **HTML only**, without styles.
+
+![SmileSchool design reference](Screenshot 2026-01-16 133018.png)
